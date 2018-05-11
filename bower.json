@@ -1,0 +1,25 @@
+{
+  "name": "purescript-foldl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.3.0",
+    "purescript-console": "^3.0.0",
+    "purescript-arrays": "^4.4.0",
+    "purescript-monoid": "^3.3.0",
+    "purescript-const": "^3.2.0",
+    "purescript-exists": "^3.0.0",
+    "purescript-integers": "^3.2.0",
+    "purescript-lists": "^4.12.0",
+    "purescript-maps": "^3.6.0",
+    "purescript-profunctor": "^3.2.0",
+    "purescript-sets": "^3.2.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
